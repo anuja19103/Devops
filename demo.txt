@@ -1,4 +1,4 @@
 hello git
 
 
-changes namde something
+changes made ------------>something
